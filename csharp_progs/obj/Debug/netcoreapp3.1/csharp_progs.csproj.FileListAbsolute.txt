@@ -1,0 +1,14 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\bin\Debug\netcoreapp3.1\csharp_progs.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\bin\Debug\netcoreapp3.1\csharp_progs.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\bin\Debug\netcoreapp3.1\csharp_progs.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\bin\Debug\netcoreapp3.1\csharp_progs.runtimeconfig.dev.json
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\bin\Debug\netcoreapp3.1\csharp_progs.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\bin\Debug\netcoreapp3.1\csharp_progs.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\obj\Debug\netcoreapp3.1\csharp_progs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\obj\Debug\netcoreapp3.1\csharp_progs.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\obj\Debug\netcoreapp3.1\csharp_progs.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\obj\Debug\netcoreapp3.1\csharp_progs.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\obj\Debug\netcoreapp3.1\csharp_progs.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\obj\Debug\netcoreapp3.1\csharp_progs.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\obj\Debug\netcoreapp3.1\csharp_progs.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\csharp_progs\obj\Debug\netcoreapp3.1\csharp_progs.genruntimeconfig.cache
