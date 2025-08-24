@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\obj\Debug\net8.0\Program_2_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\obj\Debug\net8.0\Program_2_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\obj\Debug\net8.0\Program_2_Encapsulation.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\obj\Debug\net8.0\Program_2_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\obj\Debug\net8.0\Program_2_Encapsulation.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\bin\Debug\net8.0\Program_2_Encapsulation.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\bin\Debug\net8.0\Program_2_Encapsulation.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\bin\Debug\net8.0\Program_2_Encapsulation.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\bin\Debug\net8.0\Program_2_Encapsulation.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\bin\Debug\net8.0\Program_2_Encapsulation.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\obj\Debug\net8.0\Program_2_Encapsulation.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\obj\Debug\net8.0\refint\Program_2_Encapsulation.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\obj\Debug\net8.0\Program_2_Encapsulation.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\obj\Debug\net8.0\Program_2_Encapsulation.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_2_Encapsulation\obj\Debug\net8.0\ref\Program_2_Encapsulation.dll

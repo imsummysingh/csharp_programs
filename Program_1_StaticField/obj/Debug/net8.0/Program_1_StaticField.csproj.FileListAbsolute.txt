@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\obj\Debug\net8.0\Program_1_StaticField.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\obj\Debug\net8.0\Program_1_StaticField.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\obj\Debug\net8.0\Program_1_StaticField.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\obj\Debug\net8.0\Program_1_StaticField.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\obj\Debug\net8.0\Program_1_StaticField.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\bin\Debug\net8.0\Program_1_StaticField.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\bin\Debug\net8.0\Program_1_StaticField.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\bin\Debug\net8.0\Program_1_StaticField.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\bin\Debug\net8.0\Program_1_StaticField.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\bin\Debug\net8.0\Program_1_StaticField.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\obj\Debug\net8.0\Program_1_StaticField.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\obj\Debug\net8.0\refint\Program_1_StaticField.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\obj\Debug\net8.0\Program_1_StaticField.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\obj\Debug\net8.0\Program_1_StaticField.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_1_StaticField\obj\Debug\net8.0\ref\Program_1_StaticField.dll
