@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\bin\Debug\net8.0\Program_5_outParameterModifier.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\bin\Debug\net8.0\Program_5_outParameterModifier.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\bin\Debug\net8.0\Program_5_outParameterModifier.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\bin\Debug\net8.0\Program_5_outParameterModifier.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\bin\Debug\net8.0\Program_5_outParameterModifier.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\obj\Debug\net8.0\Program_5_outParameterModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\obj\Debug\net8.0\Program_5_outParameterModifier.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\obj\Debug\net8.0\Program_5_outParameterModifier.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\obj\Debug\net8.0\Program_5_outParameterModifier.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\obj\Debug\net8.0\Program_5_outParameterModifier.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\obj\Debug\net8.0\Program_5_outParameterModifier.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\obj\Debug\net8.0\refint\Program_5_outParameterModifier.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\obj\Debug\net8.0\Program_5_outParameterModifier.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\obj\Debug\net8.0\Program_5_outParameterModifier.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_5_outParameterModifier\obj\Debug\net8.0\ref\Program_5_outParameterModifier.dll

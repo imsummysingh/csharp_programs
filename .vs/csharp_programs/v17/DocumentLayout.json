@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{00D8C4CE-FF57-4399-95F1-34AE74E09576}|Program_2_Encapsulation\\Program_2_Encapsulation.csproj|c:\\users\\ssingh47\\source\\repos\\csharp_programs\\program_2_encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00D8C4CE-FF57-4399-95F1-34AE74E09576}|Program_2_Encapsulation\\Program_2_Encapsulation.csproj|solutionrelative:program_2_encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,19 +42,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_2_Encapsulation\\Program.cs",
-              "RelativeDocumentMoniker": "Program_2_Encapsulation\\Program.cs",
-              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_2_Encapsulation\\Program.cs",
-              "RelativeToolTip": "Program_2_Encapsulation\\Program.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAiwD8AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T17:17:36.51Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Program_2_Encapsulation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89986e64d9d5579382943b39fc2f3864fec8ad95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbbbc53555791b37406a058573c3c8560fa3791d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Program_2_Encapsulation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Program_2_Encapsulation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
