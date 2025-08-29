@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\bin\Debug\net8.0\Project_13_StructureExample.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\bin\Debug\net8.0\Project_13_StructureExample.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\bin\Debug\net8.0\Project_13_StructureExample.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\bin\Debug\net8.0\Project_13_StructureExample.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\bin\Debug\net8.0\Project_13_StructureExample.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\obj\Debug\net8.0\Project_13_StructureExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\obj\Debug\net8.0\Project_13_StructureExample.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\obj\Debug\net8.0\Project_13_StructureExample.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\obj\Debug\net8.0\Project_13_StructureExample.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\obj\Debug\net8.0\Project_13_StructureExample.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\obj\Debug\net8.0\Project_13_StructureExample.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\obj\Debug\net8.0\refint\Project_13_StructureExample.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\obj\Debug\net8.0\Project_13_StructureExample.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\obj\Debug\net8.0\Project_13_StructureExample.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Project_13_StructureExample\obj\Debug\net8.0\ref\Project_13_StructureExample.dll

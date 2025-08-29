@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_10_ReadOnlyProperty
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_11_WriteOnlyProperty", "Program_11_WriteOnlyProperty\Program_11_WriteOnlyProperty.csproj", "{3DF5D41F-9644-4868-8DC8-61C435CAB7AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_12_BaseKeyword", "Program_12_BaseKeyword\Program_12_BaseKeyword.csproj", "{6E9EBE93-4152-44E6-99EC-10CAF72B0016}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_12_BaseKeyword", "Program_12_BaseKeyword\Program_12_BaseKeyword.csproj", "{6E9EBE93-4152-44E6-99EC-10CAF72B0016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_13_StructureExample", "Project_13_StructureExample\Project_13_StructureExample.csproj", "{82B43E00-DD40-4E10-883E-2603E7945AA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{6E9EBE93-4152-44E6-99EC-10CAF72B0016}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E9EBE93-4152-44E6-99EC-10CAF72B0016}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E9EBE93-4152-44E6-99EC-10CAF72B0016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B43E00-DD40-4E10-883E-2603E7945AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B43E00-DD40-4E10-883E-2603E7945AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B43E00-DD40-4E10-883E-2603E7945AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B43E00-DD40-4E10-883E-2603E7945AA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
