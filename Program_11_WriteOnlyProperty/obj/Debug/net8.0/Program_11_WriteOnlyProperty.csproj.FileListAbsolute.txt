@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\bin\Debug\net8.0\Program_11_WriteOnlyProperty.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\bin\Debug\net8.0\Program_11_WriteOnlyProperty.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\bin\Debug\net8.0\Program_11_WriteOnlyProperty.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\bin\Debug\net8.0\Program_11_WriteOnlyProperty.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\bin\Debug\net8.0\Program_11_WriteOnlyProperty.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\obj\Debug\net8.0\Program_11_WriteOnlyProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\obj\Debug\net8.0\Program_11_WriteOnlyProperty.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\obj\Debug\net8.0\Program_11_WriteOnlyProperty.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\obj\Debug\net8.0\Program_11_WriteOnlyProperty.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\obj\Debug\net8.0\Program_11_WriteOnlyProperty.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\obj\Debug\net8.0\Program_11_WriteOnlyProperty.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\obj\Debug\net8.0\refint\Program_11_WriteOnlyProperty.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\obj\Debug\net8.0\Program_11_WriteOnlyProperty.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\obj\Debug\net8.0\Program_11_WriteOnlyProperty.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_11_WriteOnlyProperty\obj\Debug\net8.0\ref\Program_11_WriteOnlyProperty.dll

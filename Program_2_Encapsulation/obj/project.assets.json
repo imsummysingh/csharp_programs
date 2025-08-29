@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_2_Encapsulation\\Program_2_Encapsulation.csproj",
-      "projectName": "Program_2_Encapsulation",
-      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_2_Encapsulation\\Program_2_Encapsulation.csproj",
+      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_2_Encapsulation\\Program_02_Encapsulation.csproj",
+      "projectName": "Program_02_Encapsulation",
+      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_2_Encapsulation\\Program_02_Encapsulation.csproj",
       "packagesPath": "C:\\Users\\SSINGH47\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_2_Encapsulation\\obj\\",
       "projectStyle": "PackageReference",

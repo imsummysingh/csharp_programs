@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\bin\Debug\net8.0\Program_6_ParameterizedConstructor.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\bin\Debug\net8.0\Program_6_ParameterizedConstructor.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\bin\Debug\net8.0\Program_6_ParameterizedConstructor.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\bin\Debug\net8.0\Program_6_ParameterizedConstructor.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\bin\Debug\net8.0\Program_6_ParameterizedConstructor.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\obj\Debug\net8.0\Program_6_ParameterizedConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\obj\Debug\net8.0\Program_6_ParameterizedConstructor.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\obj\Debug\net8.0\Program_6_ParameterizedConstructor.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\obj\Debug\net8.0\Program_6_ParameterizedConstructor.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\obj\Debug\net8.0\Program_6_ParameterizedConstructor.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\obj\Debug\net8.0\Program_6_ParameterizedConstructor.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\obj\Debug\net8.0\refint\Program_6_ParameterizedConstructor.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\obj\Debug\net8.0\Program_6_ParameterizedConstructor.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\obj\Debug\net8.0\Program_6_ParameterizedConstructor.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_6_ParameterizedConstructor\obj\Debug\net8.0\ref\Program_6_ParameterizedConstructor.dll

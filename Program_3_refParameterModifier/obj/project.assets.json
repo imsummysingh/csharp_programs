@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_3_refParameterModifier\\Program_3_refParameterModifier.csproj",
-      "projectName": "Program_3_refParameterModifier",
-      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_3_refParameterModifier\\Program_3_refParameterModifier.csproj",
+      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_3_refParameterModifier\\Program_03_refParameterModifier.csproj",
+      "projectName": "Program_03_refParameterModifier",
+      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_3_refParameterModifier\\Program_03_refParameterModifier.csproj",
       "packagesPath": "C:\\Users\\SSINGH47\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_3_refParameterModifier\\obj\\",
       "projectStyle": "PackageReference",

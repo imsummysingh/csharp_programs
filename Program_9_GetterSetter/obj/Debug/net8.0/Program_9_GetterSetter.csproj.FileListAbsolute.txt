@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\bin\Debug\net8.0\Program_9_GetterSetter.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\bin\Debug\net8.0\Program_9_GetterSetter.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\bin\Debug\net8.0\Program_9_GetterSetter.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\bin\Debug\net8.0\Program_9_GetterSetter.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\bin\Debug\net8.0\Program_9_GetterSetter.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\obj\Debug\net8.0\Program_9_GetterSetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\obj\Debug\net8.0\Program_9_GetterSetter.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\obj\Debug\net8.0\Program_9_GetterSetter.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\obj\Debug\net8.0\Program_9_GetterSetter.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\obj\Debug\net8.0\Program_9_GetterSetter.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\obj\Debug\net8.0\Program_9_GetterSetter.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\obj\Debug\net8.0\refint\Program_9_GetterSetter.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\obj\Debug\net8.0\Program_9_GetterSetter.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\obj\Debug\net8.0\Program_9_GetterSetter.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_9_GetterSetter\obj\Debug\net8.0\ref\Program_9_GetterSetter.dll

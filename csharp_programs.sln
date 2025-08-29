@@ -3,15 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_1_StaticField", "Program_1_StaticField\Program_1_StaticField.csproj", "{1ABB3C80-AA4D-43F6-83D5-5165FD5A522A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_01_StaticField", "Program_1_StaticField\Program_01_StaticField.csproj", "{1ABB3C80-AA4D-43F6-83D5-5165FD5A522A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_2_Encapsulation", "Program_2_Encapsulation\Program_2_Encapsulation.csproj", "{00D8C4CE-FF57-4399-95F1-34AE74E09576}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_02_Encapsulation", "Program_2_Encapsulation\Program_02_Encapsulation.csproj", "{00D8C4CE-FF57-4399-95F1-34AE74E09576}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_3_refParameterModifier", "Program_3_refParameterModifier\Program_3_refParameterModifier.csproj", "{EC81F773-D961-4025-BDD2-F5E024E97D0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_03_refParameterModifier", "Program_3_refParameterModifier\Program_03_refParameterModifier.csproj", "{EC81F773-D961-4025-BDD2-F5E024E97D0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_4_refParameterModifier_2", "Program_4_refParameterModifier_2\Program_4_refParameterModifier_2.csproj", "{AABA69A8-5559-44CC-A31F-0A0EED93CD23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_04_refParameterModifier_2", "Program_4_refParameterModifier_2\Program_04_refParameterModifier_2.csproj", "{AABA69A8-5559-44CC-A31F-0A0EED93CD23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_5_outParameterModifier", "Program_5_outParameterModifier\Program_5_outParameterModifier.csproj", "{EE1231E5-43BD-452D-B742-B587B2A6A5B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_05_outParameterModifier", "Program_5_outParameterModifier\Program_05_outParameterModifier.csproj", "{EE1231E5-43BD-452D-B742-B587B2A6A5B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_06_ParameterizedConstructor", "Program_6_ParameterizedConstructor\Program_06_ParameterizedConstructor.csproj", "{40C0DD07-BB77-4894-BB20-2C00D1419D6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_07_StaticConstructor", "Program_7_StaticConstructor\Program_07_StaticConstructor.csproj", "{BD763B02-64EC-44F7-9828-CED28D6E8A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_08_ConstuctorChaining", "Program_8_ConstuctorChaining\Program_08_ConstuctorChaining.csproj", "{EDAB778B-9ECA-4100-BE81-6ED208068EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_09_GetterSetter", "Program_9_GetterSetter\Program_09_GetterSetter.csproj", "{BB7840A5-D234-4191-BF4B-7A1EB7F14B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_10_ReadOnlyProperty", "Program_10_ReadOnlyProperty\Program_10_ReadOnlyProperty.csproj", "{ED27EB66-2C62-4037-828F-3960FB17082C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_11_WriteOnlyProperty", "Program_11_WriteOnlyProperty\Program_11_WriteOnlyProperty.csproj", "{3DF5D41F-9644-4868-8DC8-61C435CAB7AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +51,30 @@ Global
 		{EE1231E5-43BD-452D-B742-B587B2A6A5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE1231E5-43BD-452D-B742-B587B2A6A5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE1231E5-43BD-452D-B742-B587B2A6A5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C0DD07-BB77-4894-BB20-2C00D1419D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C0DD07-BB77-4894-BB20-2C00D1419D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C0DD07-BB77-4894-BB20-2C00D1419D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C0DD07-BB77-4894-BB20-2C00D1419D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD763B02-64EC-44F7-9828-CED28D6E8A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD763B02-64EC-44F7-9828-CED28D6E8A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD763B02-64EC-44F7-9828-CED28D6E8A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD763B02-64EC-44F7-9828-CED28D6E8A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAB778B-9ECA-4100-BE81-6ED208068EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAB778B-9ECA-4100-BE81-6ED208068EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAB778B-9ECA-4100-BE81-6ED208068EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAB778B-9ECA-4100-BE81-6ED208068EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7840A5-D234-4191-BF4B-7A1EB7F14B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7840A5-D234-4191-BF4B-7A1EB7F14B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7840A5-D234-4191-BF4B-7A1EB7F14B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7840A5-D234-4191-BF4B-7A1EB7F14B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED27EB66-2C62-4037-828F-3960FB17082C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED27EB66-2C62-4037-828F-3960FB17082C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED27EB66-2C62-4037-828F-3960FB17082C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED27EB66-2C62-4037-828F-3960FB17082C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF5D41F-9644-4868-8DC8-61C435CAB7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF5D41F-9644-4868-8DC8-61C435CAB7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF5D41F-9644-4868-8DC8-61C435CAB7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF5D41F-9644-4868-8DC8-61C435CAB7AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

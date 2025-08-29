@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_5_outParameterModifier\\Program_5_outParameterModifier.csproj",
-      "projectName": "Program_5_outParameterModifier",
-      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_5_outParameterModifier\\Program_5_outParameterModifier.csproj",
+      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_5_outParameterModifier\\Program_05_outParameterModifier.csproj",
+      "projectName": "Program_05_outParameterModifier",
+      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_5_outParameterModifier\\Program_05_outParameterModifier.csproj",
       "packagesPath": "C:\\Users\\SSINGH47\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_5_outParameterModifier\\obj\\",
       "projectStyle": "PackageReference",

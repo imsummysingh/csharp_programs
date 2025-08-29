@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Program_11_WriteOnlyProperty/1.0.0": {
+        "runtime": {
+          "Program_11_WriteOnlyProperty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Program_11_WriteOnlyProperty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

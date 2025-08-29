@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Program_5_outParameterModifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbbbc53555791b37406a058573c3c8560fa3791d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+237048ae992f9ac84ad22c5d1a3035fe2a58c88e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Program_5_outParameterModifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Program_5_outParameterModifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

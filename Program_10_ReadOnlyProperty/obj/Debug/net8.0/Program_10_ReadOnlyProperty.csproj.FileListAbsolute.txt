@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\bin\Debug\net8.0\Program_10_ReadOnlyProperty.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\bin\Debug\net8.0\Program_10_ReadOnlyProperty.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\bin\Debug\net8.0\Program_10_ReadOnlyProperty.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\bin\Debug\net8.0\Program_10_ReadOnlyProperty.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\bin\Debug\net8.0\Program_10_ReadOnlyProperty.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\obj\Debug\net8.0\Program_10_ReadOnlyProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\obj\Debug\net8.0\Program_10_ReadOnlyProperty.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\obj\Debug\net8.0\Program_10_ReadOnlyProperty.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\obj\Debug\net8.0\Program_10_ReadOnlyProperty.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\obj\Debug\net8.0\Program_10_ReadOnlyProperty.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\obj\Debug\net8.0\Program_10_ReadOnlyProperty.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\obj\Debug\net8.0\refint\Program_10_ReadOnlyProperty.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\obj\Debug\net8.0\Program_10_ReadOnlyProperty.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\obj\Debug\net8.0\Program_10_ReadOnlyProperty.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_10_ReadOnlyProperty\obj\Debug\net8.0\ref\Program_10_ReadOnlyProperty.dll

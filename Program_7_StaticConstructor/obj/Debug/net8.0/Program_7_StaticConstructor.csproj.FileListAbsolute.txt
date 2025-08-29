@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\bin\Debug\net8.0\Program_7_StaticConstructor.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\bin\Debug\net8.0\Program_7_StaticConstructor.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\bin\Debug\net8.0\Program_7_StaticConstructor.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\bin\Debug\net8.0\Program_7_StaticConstructor.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\bin\Debug\net8.0\Program_7_StaticConstructor.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\obj\Debug\net8.0\Program_7_StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\obj\Debug\net8.0\Program_7_StaticConstructor.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\obj\Debug\net8.0\Program_7_StaticConstructor.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\obj\Debug\net8.0\Program_7_StaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\obj\Debug\net8.0\Program_7_StaticConstructor.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\obj\Debug\net8.0\Program_7_StaticConstructor.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\obj\Debug\net8.0\refint\Program_7_StaticConstructor.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\obj\Debug\net8.0\Program_7_StaticConstructor.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\obj\Debug\net8.0\Program_7_StaticConstructor.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_7_StaticConstructor\obj\Debug\net8.0\ref\Program_7_StaticConstructor.dll

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_1_StaticField\\Program_1_StaticField.csproj",
-      "projectName": "Program_1_StaticField",
-      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_1_StaticField\\Program_1_StaticField.csproj",
+      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_1_StaticField\\Program_01_StaticField.csproj",
+      "projectName": "Program_01_StaticField",
+      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_1_StaticField\\Program_01_StaticField.csproj",
       "packagesPath": "C:\\Users\\SSINGH47\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_1_StaticField\\obj\\",
       "projectStyle": "PackageReference",
