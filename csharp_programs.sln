@@ -13,17 +13,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_04_refParameterModi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_05_outParameterModifier", "Program_5_outParameterModifier\Program_05_outParameterModifier.csproj", "{EE1231E5-43BD-452D-B742-B587B2A6A5B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_06_ParameterizedConstructor", "Program_6_ParameterizedConstructor\Program_06_ParameterizedConstructor.csproj", "{40C0DD07-BB77-4894-BB20-2C00D1419D6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_06_ParameterizedConstructor", "Program_6_ParameterizedConstructor\Program_06_ParameterizedConstructor.csproj", "{40C0DD07-BB77-4894-BB20-2C00D1419D6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_07_StaticConstructor", "Program_7_StaticConstructor\Program_07_StaticConstructor.csproj", "{BD763B02-64EC-44F7-9828-CED28D6E8A40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_07_StaticConstructor", "Program_7_StaticConstructor\Program_07_StaticConstructor.csproj", "{BD763B02-64EC-44F7-9828-CED28D6E8A40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_08_ConstuctorChaining", "Program_8_ConstuctorChaining\Program_08_ConstuctorChaining.csproj", "{EDAB778B-9ECA-4100-BE81-6ED208068EAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_08_ConstuctorChaining", "Program_8_ConstuctorChaining\Program_08_ConstuctorChaining.csproj", "{EDAB778B-9ECA-4100-BE81-6ED208068EAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_09_GetterSetter", "Program_9_GetterSetter\Program_09_GetterSetter.csproj", "{BB7840A5-D234-4191-BF4B-7A1EB7F14B09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_09_GetterSetter", "Program_9_GetterSetter\Program_09_GetterSetter.csproj", "{BB7840A5-D234-4191-BF4B-7A1EB7F14B09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_10_ReadOnlyProperty", "Program_10_ReadOnlyProperty\Program_10_ReadOnlyProperty.csproj", "{ED27EB66-2C62-4037-828F-3960FB17082C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_10_ReadOnlyProperty", "Program_10_ReadOnlyProperty\Program_10_ReadOnlyProperty.csproj", "{ED27EB66-2C62-4037-828F-3960FB17082C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_11_WriteOnlyProperty", "Program_11_WriteOnlyProperty\Program_11_WriteOnlyProperty.csproj", "{3DF5D41F-9644-4868-8DC8-61C435CAB7AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_11_WriteOnlyProperty", "Program_11_WriteOnlyProperty\Program_11_WriteOnlyProperty.csproj", "{3DF5D41F-9644-4868-8DC8-61C435CAB7AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_12_BaseKeyword", "Program_12_BaseKeyword\Program_12_BaseKeyword.csproj", "{6E9EBE93-4152-44E6-99EC-10CAF72B0016}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{3DF5D41F-9644-4868-8DC8-61C435CAB7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DF5D41F-9644-4868-8DC8-61C435CAB7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DF5D41F-9644-4868-8DC8-61C435CAB7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9EBE93-4152-44E6-99EC-10CAF72B0016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9EBE93-4152-44E6-99EC-10CAF72B0016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9EBE93-4152-44E6-99EC-10CAF72B0016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9EBE93-4152-44E6-99EC-10CAF72B0016}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
