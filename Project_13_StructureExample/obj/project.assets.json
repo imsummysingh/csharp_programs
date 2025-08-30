@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Project_13_StructureExample\\Project_13_StructureExample.csproj",
-      "projectName": "Project_13_StructureExample",
-      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Project_13_StructureExample\\Project_13_StructureExample.csproj",
+      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Project_13_StructureExample\\Program_13_StructureExample.csproj",
+      "projectName": "Program_13_StructureExample",
+      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Project_13_StructureExample\\Program_13_StructureExample.csproj",
       "packagesPath": "C:\\Users\\SSINGH47\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Project_13_StructureExample\\obj\\",
       "projectStyle": "PackageReference",

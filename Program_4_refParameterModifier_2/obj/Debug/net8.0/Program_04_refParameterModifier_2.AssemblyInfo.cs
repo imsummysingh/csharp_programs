@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Program_04_refParameterModifier_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c5e59237296a2d06cddd9205f54ac8d16e75081")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba26bb813b02a7af88af95ecfba69e0cb0b77df4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Program_04_refParameterModifier_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Program_04_refParameterModifier_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

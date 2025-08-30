@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\bin\Debug\net8.0\Program_14_GenericClassExample.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\bin\Debug\net8.0\Program_14_GenericClassExample.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\bin\Debug\net8.0\Program_14_GenericClassExample.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\bin\Debug\net8.0\Program_14_GenericClassExample.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\bin\Debug\net8.0\Program_14_GenericClassExample.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\obj\Debug\net8.0\Program_14_GenericClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\obj\Debug\net8.0\Program_14_GenericClassExample.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\obj\Debug\net8.0\Program_14_GenericClassExample.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\obj\Debug\net8.0\Program_14_GenericClassExample.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\obj\Debug\net8.0\Program_14_GenericClassExample.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\obj\Debug\net8.0\Program_14_GenericClassExample.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\obj\Debug\net8.0\refint\Program_14_GenericClassExample.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\obj\Debug\net8.0\Program_14_GenericClassExample.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\obj\Debug\net8.0\Program_14_GenericClassExample.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_14_GenericClassExample\obj\Debug\net8.0\ref\Program_14_GenericClassExample.dll

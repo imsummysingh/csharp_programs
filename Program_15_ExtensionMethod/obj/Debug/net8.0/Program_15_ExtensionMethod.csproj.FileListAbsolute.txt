@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\bin\Debug\net8.0\Program_15_ExtensionMethod.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\bin\Debug\net8.0\Program_15_ExtensionMethod.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\bin\Debug\net8.0\Program_15_ExtensionMethod.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\bin\Debug\net8.0\Program_15_ExtensionMethod.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\bin\Debug\net8.0\Program_15_ExtensionMethod.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\obj\Debug\net8.0\Program_15_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\obj\Debug\net8.0\Program_15_ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\obj\Debug\net8.0\Program_15_ExtensionMethod.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\obj\Debug\net8.0\Program_15_ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\obj\Debug\net8.0\Program_15_ExtensionMethod.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\obj\Debug\net8.0\Program_15_ExtensionMethod.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\obj\Debug\net8.0\refint\Program_15_ExtensionMethod.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\obj\Debug\net8.0\Program_15_ExtensionMethod.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\obj\Debug\net8.0\Program_15_ExtensionMethod.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_15_ExtensionMethod\obj\Debug\net8.0\ref\Program_15_ExtensionMethod.dll
