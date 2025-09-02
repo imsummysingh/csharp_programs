@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7670A28B-F6CA-4421-AEE0-27548B837E63}|Program_15_ExtensionMethod\\Program_15_ExtensionMethod.csproj|c:\\users\\ssingh47\\source\\repos\\csharp_programs\\program_15_extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7670A28B-F6CA-4421-AEE0-27548B837E63}|Program_15_ExtensionMethod\\Program_15_ExtensionMethod.csproj|solutionrelative:program_15_extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D2A6FEF-EB55-4A67-9066-786077BDAE20}|Program_16_SingleCastDelegate\\Program_16_SingleCastDelegate.csproj|c:\\users\\ssingh47\\source\\repos\\csharp_programs\\program_16_singlecastdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2A6FEF-EB55-4A67-9066-786077BDAE20}|Program_16_SingleCastDelegate\\Program_16_SingleCastDelegate.csproj|solutionrelative:program_16_singlecastdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,13 +52,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_15_ExtensionMethod\\Program.cs",
-              "RelativeDocumentMoniker": "Program_15_ExtensionMethod\\Program.cs",
-              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_15_ExtensionMethod\\Program.cs",
-              "RelativeToolTip": "Program_15_ExtensionMethod\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABNAAAA",
+              "DocumentMoniker": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_16_SingleCastDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "Program_16_SingleCastDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\SSINGH47\\source\\repos\\csharp_programs\\Program_16_SingleCastDelegate\\Program.cs",
+              "RelativeToolTip": "Program_16_SingleCastDelegate\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T14:07:59.108Z",
+              "WhenOpened": "2025-09-02T15:59:03.903Z",
               "EditorCaption": ""
             }
           ]

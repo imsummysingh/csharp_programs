@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\bin\Debug\net8.0\Program_16_SingleCastDelegate.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\bin\Debug\net8.0\Program_16_SingleCastDelegate.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\bin\Debug\net8.0\Program_16_SingleCastDelegate.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\bin\Debug\net8.0\Program_16_SingleCastDelegate.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\bin\Debug\net8.0\Program_16_SingleCastDelegate.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\obj\Debug\net8.0\Program_16_SingleCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\obj\Debug\net8.0\Program_16_SingleCastDelegate.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\obj\Debug\net8.0\Program_16_SingleCastDelegate.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\obj\Debug\net8.0\Program_16_SingleCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\obj\Debug\net8.0\Program_16_SingleCastDelegate.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\obj\Debug\net8.0\Program_16_SingleCastDelegate.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\obj\Debug\net8.0\refint\Program_16_SingleCastDelegate.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\obj\Debug\net8.0\Program_16_SingleCastDelegate.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\obj\Debug\net8.0\Program_16_SingleCastDelegate.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_16_SingleCastDelegate\obj\Debug\net8.0\ref\Program_16_SingleCastDelegate.dll
