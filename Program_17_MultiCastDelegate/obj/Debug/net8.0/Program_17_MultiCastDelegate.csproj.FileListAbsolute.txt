@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\bin\Debug\net8.0\Program_17_MultiCastDelegate.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\bin\Debug\net8.0\Program_17_MultiCastDelegate.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\bin\Debug\net8.0\Program_17_MultiCastDelegate.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\bin\Debug\net8.0\Program_17_MultiCastDelegate.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\bin\Debug\net8.0\Program_17_MultiCastDelegate.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\obj\Debug\net8.0\Program_17_MultiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\obj\Debug\net8.0\Program_17_MultiCastDelegate.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\obj\Debug\net8.0\Program_17_MultiCastDelegate.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\obj\Debug\net8.0\Program_17_MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\obj\Debug\net8.0\Program_17_MultiCastDelegate.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\obj\Debug\net8.0\Program_17_MultiCastDelegate.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\obj\Debug\net8.0\refint\Program_17_MultiCastDelegate.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\obj\Debug\net8.0\Program_17_MultiCastDelegate.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\obj\Debug\net8.0\Program_17_MultiCastDelegate.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_17_MultiCastDelegate\obj\Debug\net8.0\ref\Program_17_MultiCastDelegate.dll

@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\bin\Debug\net8.0\Program_19_FuncDelegate.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\bin\Debug\net8.0\Program_19_FuncDelegate.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\bin\Debug\net8.0\Program_19_FuncDelegate.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\bin\Debug\net8.0\Program_19_FuncDelegate.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\bin\Debug\net8.0\Program_19_FuncDelegate.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\obj\Debug\net8.0\Program_19_FuncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\obj\Debug\net8.0\Program_19_FuncDelegate.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\obj\Debug\net8.0\Program_19_FuncDelegate.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\obj\Debug\net8.0\Program_19_FuncDelegate.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\obj\Debug\net8.0\Program_19_FuncDelegate.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\obj\Debug\net8.0\Program_19_FuncDelegate.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\obj\Debug\net8.0\refint\Program_19_FuncDelegate.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\obj\Debug\net8.0\Program_19_FuncDelegate.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\obj\Debug\net8.0\Program_19_FuncDelegate.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_19_FuncDelegate\obj\Debug\net8.0\ref\Program_19_FuncDelegate.dll

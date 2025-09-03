@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Program_19_FuncDelegate/1.0.0": {
+        "runtime": {
+          "Program_19_FuncDelegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Program_19_FuncDelegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
