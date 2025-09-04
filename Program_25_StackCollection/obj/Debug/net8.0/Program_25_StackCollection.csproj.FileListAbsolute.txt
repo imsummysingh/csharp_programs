@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\bin\Debug\net8.0\Program_25_StackCollection.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\bin\Debug\net8.0\Program_25_StackCollection.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\bin\Debug\net8.0\Program_25_StackCollection.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\bin\Debug\net8.0\Program_25_StackCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\bin\Debug\net8.0\Program_25_StackCollection.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\obj\Debug\net8.0\Program_25_StackCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\obj\Debug\net8.0\Program_25_StackCollection.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\obj\Debug\net8.0\Program_25_StackCollection.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\obj\Debug\net8.0\Program_25_StackCollection.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\obj\Debug\net8.0\Program_25_StackCollection.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\obj\Debug\net8.0\Program_25_StackCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\obj\Debug\net8.0\refint\Program_25_StackCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\obj\Debug\net8.0\Program_25_StackCollection.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\obj\Debug\net8.0\Program_25_StackCollection.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_25_StackCollection\obj\Debug\net8.0\ref\Program_25_StackCollection.dll

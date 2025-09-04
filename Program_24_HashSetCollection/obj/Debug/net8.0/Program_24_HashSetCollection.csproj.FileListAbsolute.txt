@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\bin\Debug\net8.0\Program_24_HashSetCollection.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\bin\Debug\net8.0\Program_24_HashSetCollection.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\bin\Debug\net8.0\Program_24_HashSetCollection.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\bin\Debug\net8.0\Program_24_HashSetCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\bin\Debug\net8.0\Program_24_HashSetCollection.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\obj\Debug\net8.0\Program_24_HashSetCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\obj\Debug\net8.0\Program_24_HashSetCollection.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\obj\Debug\net8.0\Program_24_HashSetCollection.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\obj\Debug\net8.0\Program_24_HashSetCollection.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\obj\Debug\net8.0\Program_24_HashSetCollection.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\obj\Debug\net8.0\Program_24_HashSetCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\obj\Debug\net8.0\refint\Program_24_HashSetCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\obj\Debug\net8.0\Program_24_HashSetCollection.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\obj\Debug\net8.0\Program_24_HashSetCollection.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_24_HashSetCollection\obj\Debug\net8.0\ref\Program_24_HashSetCollection.dll

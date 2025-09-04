@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\bin\Debug\net8.0\Program_23_SortedListCollection.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\bin\Debug\net8.0\Program_23_SortedListCollection.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\bin\Debug\net8.0\Program_23_SortedListCollection.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\bin\Debug\net8.0\Program_23_SortedListCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\bin\Debug\net8.0\Program_23_SortedListCollection.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\obj\Debug\net8.0\Program_23_SortedListCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\obj\Debug\net8.0\Program_23_SortedListCollection.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\obj\Debug\net8.0\Program_23_SortedListCollection.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\obj\Debug\net8.0\Program_23_SortedListCollection.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\obj\Debug\net8.0\Program_23_SortedListCollection.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\obj\Debug\net8.0\Program_23_SortedListCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\obj\Debug\net8.0\refint\Program_23_SortedListCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\obj\Debug\net8.0\Program_23_SortedListCollection.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\obj\Debug\net8.0\Program_23_SortedListCollection.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_23_SortedListCollection\obj\Debug\net8.0\ref\Program_23_SortedListCollection.dll

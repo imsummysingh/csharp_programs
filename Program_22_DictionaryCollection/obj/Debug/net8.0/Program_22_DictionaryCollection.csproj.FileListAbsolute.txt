@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\bin\Debug\net8.0\Program_22_DictionaryCollection.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\bin\Debug\net8.0\Program_22_DictionaryCollection.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\bin\Debug\net8.0\Program_22_DictionaryCollection.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\bin\Debug\net8.0\Program_22_DictionaryCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\bin\Debug\net8.0\Program_22_DictionaryCollection.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\obj\Debug\net8.0\Program_22_DictionaryCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\obj\Debug\net8.0\Program_22_DictionaryCollection.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\obj\Debug\net8.0\Program_22_DictionaryCollection.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\obj\Debug\net8.0\Program_22_DictionaryCollection.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\obj\Debug\net8.0\Program_22_DictionaryCollection.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\obj\Debug\net8.0\Program_22_DictionaryCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\obj\Debug\net8.0\refint\Program_22_DictionaryCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\obj\Debug\net8.0\Program_22_DictionaryCollection.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\obj\Debug\net8.0\Program_22_DictionaryCollection.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_22_DictionaryCollection\obj\Debug\net8.0\ref\Program_22_DictionaryCollection.dll

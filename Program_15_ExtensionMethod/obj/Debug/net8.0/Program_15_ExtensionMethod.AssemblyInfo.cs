@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Program_15_ExtensionMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb9518ea7ecaa12bfd9dff6fc4214853a369763b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0365bd70bd4200109d07daee4b51bc315075ca19")]
 [assembly: System.Reflection.AssemblyProductAttribute("Program_15_ExtensionMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Program_15_ExtensionMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
