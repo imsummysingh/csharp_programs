@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\bin\Debug\net8.0\Program_21_ListCollection.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\bin\Debug\net8.0\Program_21_ListCollection.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\bin\Debug\net8.0\Program_21_ListCollection.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\bin\Debug\net8.0\Program_21_ListCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\bin\Debug\net8.0\Program_21_ListCollection.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\obj\Debug\net8.0\Program_21_ListCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\obj\Debug\net8.0\Program_21_ListCollection.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\obj\Debug\net8.0\Program_21_ListCollection.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\obj\Debug\net8.0\Program_21_ListCollection.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\obj\Debug\net8.0\Program_21_ListCollection.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\obj\Debug\net8.0\Program_21_ListCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\obj\Debug\net8.0\refint\Program_21_ListCollection.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\obj\Debug\net8.0\Program_21_ListCollection.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\obj\Debug\net8.0\Program_21_ListCollection.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_21_ListCollection\obj\Debug\net8.0\ref\Program_21_ListCollection.dll

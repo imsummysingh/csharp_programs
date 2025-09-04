@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Program_17_MultiCastDelegate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d35338eaf32ca675c0eec565591835c37ea95040")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb9518ea7ecaa12bfd9dff6fc4214853a369763b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Program_17_MultiCastDelegate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Program_17_MultiCastDelegate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
