@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\bin\Debug\net8.0\Program_28_Linq.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\bin\Debug\net8.0\Program_28_Linq.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\bin\Debug\net8.0\Program_28_Linq.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\bin\Debug\net8.0\Program_28_Linq.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\bin\Debug\net8.0\Program_28_Linq.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\obj\Debug\net8.0\Program_28_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\obj\Debug\net8.0\Program_28_Linq.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\obj\Debug\net8.0\Program_28_Linq.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\obj\Debug\net8.0\Program_28_Linq.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\obj\Debug\net8.0\Program_28_Linq.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\obj\Debug\net8.0\Program_28_Linq.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\obj\Debug\net8.0\refint\Program_28_Linq.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\obj\Debug\net8.0\Program_28_Linq.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\obj\Debug\net8.0\Program_28_Linq.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_28_Linq\obj\Debug\net8.0\ref\Program_28_Linq.dll

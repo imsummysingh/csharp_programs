@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\bin\Debug\net8.0\Program_30_StringBuilder.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\bin\Debug\net8.0\Program_30_StringBuilder.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\bin\Debug\net8.0\Program_30_StringBuilder.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\bin\Debug\net8.0\Program_30_StringBuilder.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\bin\Debug\net8.0\Program_30_StringBuilder.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\obj\Debug\net8.0\Program_30_StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\obj\Debug\net8.0\Program_30_StringBuilder.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\obj\Debug\net8.0\Program_30_StringBuilder.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\obj\Debug\net8.0\Program_30_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\obj\Debug\net8.0\Program_30_StringBuilder.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\obj\Debug\net8.0\Program_30_StringBuilder.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\obj\Debug\net8.0\refint\Program_30_StringBuilder.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\obj\Debug\net8.0\Program_30_StringBuilder.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\obj\Debug\net8.0\Program_30_StringBuilder.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_30_StringBuilder\obj\Debug\net8.0\ref\Program_30_StringBuilder.dll

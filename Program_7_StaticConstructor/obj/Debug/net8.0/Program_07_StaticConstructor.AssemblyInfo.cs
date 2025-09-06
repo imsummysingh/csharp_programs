@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Program_07_StaticConstructor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0365bd70bd4200109d07daee4b51bc315075ca19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98aa34ecc80a81ca1fe89bb941dc8d3ef3307074")]
 [assembly: System.Reflection.AssemblyProductAttribute("Program_07_StaticConstructor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Program_07_StaticConstructor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

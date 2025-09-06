@@ -1,0 +1,15 @@
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\bin\Debug\net8.0\Program_27_ValueTuple.exe
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\bin\Debug\net8.0\Program_27_ValueTuple.deps.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\bin\Debug\net8.0\Program_27_ValueTuple.runtimeconfig.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\bin\Debug\net8.0\Program_27_ValueTuple.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\bin\Debug\net8.0\Program_27_ValueTuple.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\obj\Debug\net8.0\Program_27_ValueTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\obj\Debug\net8.0\Program_27_ValueTuple.AssemblyInfoInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\obj\Debug\net8.0\Program_27_ValueTuple.AssemblyInfo.cs
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\obj\Debug\net8.0\Program_27_ValueTuple.csproj.CoreCompileInputs.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\obj\Debug\net8.0\Program_27_ValueTuple.sourcelink.json
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\obj\Debug\net8.0\Program_27_ValueTuple.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\obj\Debug\net8.0\refint\Program_27_ValueTuple.dll
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\obj\Debug\net8.0\Program_27_ValueTuple.pdb
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\obj\Debug\net8.0\Program_27_ValueTuple.genruntimeconfig.cache
+C:\Users\SSINGH47\source\repos\csharp_programs\Program_27_ValueTuple\obj\Debug\net8.0\ref\Program_27_ValueTuple.dll

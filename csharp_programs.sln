@@ -45,15 +45,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_20_ArrayIndexOf", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_21_ListCollection", "Program_21_ListCollection\Program_21_ListCollection.csproj", "{162FA01C-C847-4CAA-B66E-5CFE5F3A8E42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_22_DictionaryCollection", "Program_22_DictionaryCollection\Program_22_DictionaryCollection.csproj", "{BD3451C8-F0D9-4A81-81E9-A21C62242835}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_22_DictionaryCollection", "Program_22_DictionaryCollection\Program_22_DictionaryCollection.csproj", "{BD3451C8-F0D9-4A81-81E9-A21C62242835}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_23_SortedListCollection", "Program_23_SortedListCollection\Program_23_SortedListCollection.csproj", "{C68FD32C-438E-4D22-89EE-C9115123F288}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_23_SortedListCollection", "Program_23_SortedListCollection\Program_23_SortedListCollection.csproj", "{C68FD32C-438E-4D22-89EE-C9115123F288}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_24_HashSetCollection", "Program_24_HashSetCollection\Program_24_HashSetCollection.csproj", "{0456C1E2-AD15-4FC9-A3EE-94E67AF6AC08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_24_HashSetCollection", "Program_24_HashSetCollection\Program_24_HashSetCollection.csproj", "{0456C1E2-AD15-4FC9-A3EE-94E67AF6AC08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_25_StackCollection", "Program_25_StackCollection\Program_25_StackCollection.csproj", "{25B8FEF7-E78F-4C44-AEE6-BFC3CEBD55C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_25_StackCollection", "Program_25_StackCollection\Program_25_StackCollection.csproj", "{25B8FEF7-E78F-4C44-AEE6-BFC3CEBD55C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_26_CustomCollection", "Program_26_CustomCollection\Program_26_CustomCollection.csproj", "{61D89B9C-5853-4EE6-9DEB-B4A180B8F4E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program_26_CustomCollection", "Program_26_CustomCollection\Program_26_CustomCollection.csproj", "{61D89B9C-5853-4EE6-9DEB-B4A180B8F4E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_27_ValueTuple", "Program_27_ValueTuple\Program_27_ValueTuple.csproj", "{A060D053-DB93-46CA-9F73-433359D66B5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_28_Linq", "Program_28_Linq\Program_28_Linq.csproj", "{EFD06BFB-7C0E-4221-84AF-F5E75DE0F8B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_29_String", "Program_29_String\Program_29_String.csproj", "{2C3B2BFF-1C9C-4292-BE56-197414C7D85F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_30_StringBuilder", "Program_30_StringBuilder\Program_30_StringBuilder.csproj", "{F457F8BC-F205-4FDC-9924-108FADA794EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +173,22 @@ Global
 		{61D89B9C-5853-4EE6-9DEB-B4A180B8F4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61D89B9C-5853-4EE6-9DEB-B4A180B8F4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61D89B9C-5853-4EE6-9DEB-B4A180B8F4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A060D053-DB93-46CA-9F73-433359D66B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A060D053-DB93-46CA-9F73-433359D66B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A060D053-DB93-46CA-9F73-433359D66B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A060D053-DB93-46CA-9F73-433359D66B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD06BFB-7C0E-4221-84AF-F5E75DE0F8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD06BFB-7C0E-4221-84AF-F5E75DE0F8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD06BFB-7C0E-4221-84AF-F5E75DE0F8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD06BFB-7C0E-4221-84AF-F5E75DE0F8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3B2BFF-1C9C-4292-BE56-197414C7D85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3B2BFF-1C9C-4292-BE56-197414C7D85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3B2BFF-1C9C-4292-BE56-197414C7D85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3B2BFF-1C9C-4292-BE56-197414C7D85F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F457F8BC-F205-4FDC-9924-108FADA794EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F457F8BC-F205-4FDC-9924-108FADA794EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F457F8BC-F205-4FDC-9924-108FADA794EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F457F8BC-F205-4FDC-9924-108FADA794EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
